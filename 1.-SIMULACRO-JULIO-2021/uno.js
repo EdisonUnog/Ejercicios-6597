@@ -99,6 +99,6 @@ function mostrar()
 
    
    console.log("A.-SSD barato : "+cantiSSDBarato+" y "+marcaSSDBarato);
-   console.log("B.-HDD precio alto : "+mayorHDDPrecio+" y "+mayorHDDCantidad);
+   console.log("B.-HDD precio alto : $"+mayorHDDPrecio+" USD, y "+mayorHDDCantidad);
    console.log("C.-Unidades de  HDD: "+contHDD);
 }
