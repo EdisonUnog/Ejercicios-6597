@@ -46,7 +46,6 @@ function mostrar(){
     let precioFinalDes;
     let precioFinalAum;
     let seguir;
-
     let total; // importe de todos los clientes
 
     do{

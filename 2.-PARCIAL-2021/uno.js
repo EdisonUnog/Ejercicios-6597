@@ -21,6 +21,7 @@ function mostrar(){
 	
 
 	let nombre; let raza; let edad; let peso; let precioConsulta;
+	
 	let seguir;
 
 	let datos;
